@@ -12,7 +12,7 @@ to split videos into segments using FFmpeg.
 ## Usage
 
 - The GUI should open. Select FFmpeg path, input video, output folder, segment time, duration.
-- Click "Chop It, Fam!" to split.
+- Click "Chop It up!" to split.
 
 ## License
 
