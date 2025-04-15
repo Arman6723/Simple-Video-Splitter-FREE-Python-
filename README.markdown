@@ -5,7 +5,7 @@ A Python tool to split videos into segments using FFmpeg.
 ## Installation
 
 1. Install Python 3.x.
-2. Install FFmpeg, build by gyan-dev (download from https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z
+2. Install FFmpeg, (build by gyan-dev) ----> Download from https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z
 3. Download & Run `video_splitter_gui.py`.
 4. Run `video_splitter_gui.py`.
 
