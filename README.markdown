@@ -1,6 +1,6 @@
 # Video Splitter GUI
-
-A Python tool to split videos into segments using FFmpeg.
+A Simple Free Automating Python tool with GUI
+to split videos into segments using FFmpeg.
 
 ## Installation
 
